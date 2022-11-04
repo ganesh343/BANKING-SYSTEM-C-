@@ -1,4 +1,4 @@
-# BANKING-SYSTEM-C-
+# BANKING-SYSTEM-C++
 An online banking system created using c++
 components inovoled
 phase-1
